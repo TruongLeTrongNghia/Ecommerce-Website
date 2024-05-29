@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ShopNowApplication<ShopNow>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.websiteshop.ShopNowApplication",
+            "projectName": "ShopNow",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
